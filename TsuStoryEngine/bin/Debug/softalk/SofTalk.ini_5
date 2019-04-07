@@ -1,0 +1,100 @@
+SofTalk	9
+lblW読音程	100
+lblW行	0
+lblW画面LEFT	6
+lblW画面TOP	391
+lblW画面Y	332
+lblW画面X	516
+lblW読速度	100
+lblW読音量	50
+chkMOV1	False
+chkMOV0	False
+lst単語	わくてか	ｗｋｔｋ
+lst単語	きたこれ	ｋｔｋｒ
+lst単語	かそく	ｋｓｋ
+lst単語	くわしく	ｋｗｓｋ
+lst単語	まじで	ｍｊｄ
+lst単語	きたー	ｷﾀ ━
+lst単語	おわた	＼(＾o＾)／
+lst単語	ふっじっさーん	／＾o＾＼
+lst単語	こめじるし	※
+lst単語	ほし	★
+lst単語	ほし	☆
+lst単語	,,,,,	・・・
+lst単語	,,,,	…
+lst単語	わら	w	False
+lst単語	わら	笑	False
+chk全半角	False
+txt単語	
+txt読み	
+txt間隔その他	50
+txt間隔読点	150
+txt間隔句点	300
+chkWW	False
+scr制限	610
+chk制限	False
+chk複数	False
+chk単数	False
+chk大小	False
+chkMOV3	False
+chkMOV2	False
+txt結果	
+txt対象	
+chkDN02	False
+chkUP02	False
+txt単語02	
+chkHIRA	False
+chkFLAP	False
+chkTOP	False
+cmbサイズ	1
+cmb書式	160
+cmb音質	0
+dgv声		女性01	0	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		女性02	1	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		男性01	2	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		男性02	3	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		ロボット	4	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		中性	5	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		機械	6	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		特殊	7	True	True	False	False	標準	AquesTalk	7	False	False	False
+dgv声		女性 (defo1)	0	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (f1c)	1	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (f3a)	2	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (f4)	3	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (rm)	4	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (rm3)	5	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (teto1)	6	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (huskey)	7	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (momo1)	8	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		女性 (nonbiri)	9	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		男性 (m4b)	10	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		男性 (m5)	11	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		中性 (mf1)	12	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		中性 (mf2)	13	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		ロボット (robo)	14	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		ロボット (rb2)	15	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		ロボット (rb3)	16	True	True	False	False	標準	AquesTalk2	10	False	False	False
+dgv声		Microsoft Haruka Desktop - Japanese	0	False	False	False	False	標準	SAPI	8	True	False	False
+dgv声		Microsoft Zira Desktop - English (United States)	1	True	False	True	False	標準	SAPI	8	True	True	False
+cmb声色	1
+chk全半角2	False
+txt単語03	
+chkDN03	False
+chkUP03	False
+chk録音再生	True
+chk録音名	False
+lblWFLE01	C:\Users\owner\Downloads\softalk
+chkPAS	False
+txtKeyClear	8
+txtKeyNext	33
+txtKeyPrev	45
+txtKeyStop	34
+txtKeyPause	35
+txtKeyPlay	46
+chkBUP	True
+chkUNI	False
+chkCLIP	False
+chk句読点	True
+chkTTL	False
+chkENT	False
+chkFILE	True

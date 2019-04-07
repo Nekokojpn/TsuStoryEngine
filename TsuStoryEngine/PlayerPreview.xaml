@@ -1,0 +1,25 @@
+﻿<Window x:Class="TsuStoryEngine.PlayerPreview"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TsuStoryEngine"
+        mc:Ignorable="d"
+        Title="PlayerPreview" Height="760" Width="1295" Foreground="White" Background="Black">
+    <Grid Loaded="Grid_Loaded">
+        <MediaElement x:Name="MW" HorizontalAlignment="Left" Height="729" VerticalAlignment="Top" Width="1287"/>
+        <Label HorizontalAlignment="Left" Margin="0,539,0,0" VerticalAlignment="Top" Width="1280" Height="190">
+            <Label.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#00000000" Offset="0"/>
+                    <GradientStop Offset="1"/>
+                    <GradientStop Color="#BF020202" Offset="0.335"/>
+                    <GradientStop Color="#70131313" Offset="0.954"/>
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+        <Label x:Name="ML" Content="Label" FontSize="24" Foreground="White" Margin="136,598,7,10"/>
+        <Label x:Name="CL" Content="Label" FontSize="36" Foreground="White" Margin="136,539,689,136"/>
+
+    </Grid>
+</Window>

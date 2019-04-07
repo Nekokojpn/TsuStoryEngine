@@ -1,0 +1,20 @@
+﻿<Window x:Class="TsuStoryEngine.CommandList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TsuStoryEngine"
+        mc:Ignorable="d"
+        Title="CommandList" Height="720" Width="1280" Background="Black" Foreground="White">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="52,10,0,0" TextWrapping="Wrap" Text="Command list" VerticalAlignment="Top" FontSize="48"/>
+        <Button x:Name="QS1" Content="QS1" HorizontalAlignment="Left" Margin="74.423,98,0,0" VerticalAlignment="Top" Width="185" Height="33.96" BorderBrush="White" Background="White" FontSize="22" Click="QS1_Click"/>
+        <Button x:Name="QS2" Content="QS2" HorizontalAlignment="Left" Margin="74.423,136.96,0,0" VerticalAlignment="Top" Width="185" Height="33.96" BorderBrush="White" Background="White" FontSize="22" Click="QS2_Click"/>
+        <Button x:Name="FOB" Content="FadeOutBGM(BETA)" HorizontalAlignment="Left" Margin="74.423,260.96,0,0" VerticalAlignment="Top" Width="198" Height="33.96" BorderBrush="White" Background="White" FontSize="22" Click="FOB_Click"/>
+        <Button x:Name="SM" Content="ShowMaintext" HorizontalAlignment="Left" Margin="74.423,0,0,298.04" VerticalAlignment="Bottom" Width="185" Height="33.96" BorderBrush="White" Background="White" FontSize="22" Click="SM_Click"/>
+        <Button x:Name="HM" Content="HideMaintext" HorizontalAlignment="Left" Margin="74.423,0,0,249.08" VerticalAlignment="Bottom" Width="185" Height="33.96" BorderBrush="White" Background="White" FontSize="22" Click="HM_Click"/>
+        <Button x:Name="ShowTitle" Content="ShowTitle" HorizontalAlignment="Left" Margin="280.423,0,0,298.04" VerticalAlignment="Bottom" Width="185" Height="33.96" BorderBrush="White" Background="White" FontSize="22" Click="ShowTitle_Click"/>
+        <Button x:Name="Loadfile" Content="LoadFile" HorizontalAlignment="Left" Margin="280.423,98,0,0" VerticalAlignment="Top" Width="185" Height="33.96" BorderBrush="White" Background="White" FontSize="22" Click="Loadfile_Click"/>
+
+    </Grid>
+</Window>

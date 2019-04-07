@@ -1,0 +1,260 @@
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe.config
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.pdb
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csprojResolveAssemblyReference.cache
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.g.cs
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.g.cs
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\App.g.cs
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.cache
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.lref
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.baml
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.baml
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.g.resources
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Properties.Resources.resources
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.GenerateResource.Cache
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.exe
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.pdb
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.g.cs
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.g.cs
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.baml
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.baml
+c:\users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Wizard.resources
+C:\Users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.g.cs
+C:\Users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.baml
+C:\Users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.g.cs
+C:\Users\tsu-chan\documents\visual studio 2017\Projects\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe.config
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.pdb
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csprojResolveAssemblyReference.cache
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\App.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.cache
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.lref
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.g.resources
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Properties.Resources.resources
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Wizard.resources
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.GenerateResource.Cache
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.exe
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.pdb
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.SaveWindow.resources
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.MediaPlayer.dll
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.ResolveComReference.cache
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIA.dll
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationClient.dll
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.FIleSelector.resources
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.NotifyService.resources
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe.config
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.MediaPlayer.dll
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIA.dll
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationClient.dll
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.ResolveComReference.cache
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.exe
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.pdb
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.pdb
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csprojResolveAssemblyReference.cache
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.g.cs
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.g.cs
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.g.cs
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.g.cs
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.g.cs
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.g.cs
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\App.g.cs
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.cache
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.lref
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.baml
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.baml
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.baml
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.baml
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.baml
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.baml
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.g.resources
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.FIleSelector.resources
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.NotifyService.resources
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Properties.Resources.resources
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.SaveWindow.resources
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Wizard.resources
+F:\高専pro 17.9.2\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.GenerateResource.Cache
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe.config
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIA.dll
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationClient.dll
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.ResolveComReference.cache
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.exe
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.pdb
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csprojResolveAssemblyReference.cache
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\App.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.cache
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.lref
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.pdb
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.baml
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.baml
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.baml
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.baml
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.baml
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.baml
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.g.resources
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.FIleSelector.resources
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.NotifyService.resources
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Properties.Resources.resources
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.SaveWindow.resources
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Wizard.resources
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.GenerateResource.Cache
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.CoreCompileInputs.cache
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe.config
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIA.dll
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationClient.dll
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.ResolveComReference.cache
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.exe
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.pdb
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.pdb
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csprojResolveAssemblyReference.cache
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\App.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.cache
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.lref
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.baml
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.baml
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.baml
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.baml
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.baml
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.baml
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.baml
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.g.resources
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.FIleSelector.resources
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.NotifyService.resources
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Properties.Resources.resources
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.SaveWindow.resources
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Wizard.resources
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.GenerateResource.Cache
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.g.cs
+C:\Users\2106user\Desktop\eww\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.baml
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.g.cs
+C:\Users\2106user\Desktop\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.baml
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.g.cs
+F:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe.config
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.pdb
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csprojResolveAssemblyReference.cache
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.MediaPlayer.dll
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIA.dll
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationClient.dll
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.ResolveComReference.cache
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\App.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.cache
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.lref
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.g.resources
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.FIleSelector.resources
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.NotifyService.resources
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Properties.Resources.resources
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.SaveWindow.resources
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Wizard.resources
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.GenerateResource.Cache
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.CoreCompileInputs.cache
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.exe
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.pdb
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\SaveProgress.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\SaveProgress.baml
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\PlayerPreview.g.cs
+E:\MYFOLDER\progs\TsuStoryEngine\TsuStoryEngine\obj\Debug\PlayerPreview.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe.config
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.exe
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\bin\Debug\TsuStoryEngine.pdb
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csprojResolveAssemblyReference.cache
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.MediaPlayer.dll
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIA.dll
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationBlockingCoreLib.dll
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationClient.dll
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Interop.UIAutomationCrossBitnessHookLib.dll
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.ResolveComReference.cache
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\PlayerPreview.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\SaveProgress.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\App.g.cs
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.cache
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine_MarkupCompile.lref
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Cap.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\CommandList.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainMenu.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\MainWindow.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\NewWizard1.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\PlayerPreview.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\SavePage.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\SaveProgress.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\ShowTitle.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\Title.baml
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.g.resources
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.FIleSelector.resources
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.NotifyService.resources
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Properties.Resources.resources
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.SaveWindow.resources
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.Wizard.resources
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.GenerateResource.Cache
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.csproj.CoreCompileInputs.cache
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.exe
+E:\MYFOLDER\progs\TEAM SOLUTION EXPLORER\TsuStoryEngine\TsuStoryEngine\obj\Debug\TsuStoryEngine.pdb

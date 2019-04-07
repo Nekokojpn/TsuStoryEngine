@@ -1,0 +1,53 @@
+﻿<Page x:Class="TsuStoryEngine.Title"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TsuStoryEngine"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="Title">
+
+    <Grid x:Name="myG">
+        <Image x:Name="title" HorizontalAlignment="Left" Height="720" VerticalAlignment="Top" Width="1280" Source="C:\Resources\TsuStoryEngine\im\title.jpg">
+            <Image.Effect>
+                <BlurEffect/>
+            </Image.Effect>
+        </Image>
+        <Label Content="Blend WPF Engine" HorizontalAlignment="Left" Margin="673.5,46,0,0" VerticalAlignment="Top" FontSize="72" Width="606.5"/>
+        <Label x:Name="slabel" Content="起動準備中..." HorizontalAlignment="Left" Margin="853,568,0,0" VerticalAlignment="Top" FontSize="72">
+            <Label.Triggers>
+                <EventTrigger RoutedEvent="Label.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard Completed="Storyboard_Completed">
+                            <DoubleAnimation 
+                                Storyboard.TargetName="slabel"
+                                Storyboard.TargetProperty="Opacity"
+                                From="0"
+                                To="1"
+                                Duration="0:0:2"
+                                
+                                />
+                            <DoubleAnimation
+                                Storyboard.TargetName="bl"
+                                Storyboard.TargetProperty="Opacity"
+                                From="0"
+                                To="1"
+                                Duration="0:0:1"
+                                />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Label.Triggers>
+
+        </Label>
+        <ListBox x:Name="bl" HorizontalAlignment="Left" Height="720" VerticalAlignment="Top" Width="1280" Background="#7F020202"/>
+        <ListBox HorizontalAlignment="Left" Height="88" VerticalAlignment="Top" Width="1280" Background="#7F020202" Margin="0,304,0,0" BorderThickness="0"/>
+        <Label x:Name="lt" Content="Preparing..." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="328,310,0,0" FontSize="48" Foreground="White">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Button x:Name="up_button" Content="Update" HorizontalAlignment="Left" Margin="525,440,0,0" VerticalAlignment="Top" Width="222" Height="72" Background="#7F39A3CB" Foreground="White" FontSize="48" BorderThickness="0" Visibility="Hidden" Click="up_button_Click"/>
+    </Grid>
+</Page>
